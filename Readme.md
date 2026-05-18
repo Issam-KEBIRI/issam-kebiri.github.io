@@ -1,6 +1,6 @@
 # My website Portfolio
 
-![GitHub](https://img.shields.io/github/license/issam-kebiri/issam-kebiri.github.io?color=g&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/UniversityProjects?color=g&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/issam-kebiri/issam-kebiri.github.io?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/issam-kebiri/issam-kebiri.github.io?color=yellow&style=for-the-badge)
 
@@ -18,7 +18,7 @@
 
 ## About The Project
 
-This is my website Portfolio to resume my work as a data scientist.
+This is my website Portfolio to resume my work as a data engineer.
 
 
 ### Demo
@@ -40,7 +40,7 @@ This is my website Portfolio to resume my work as a data scientist.
 
 ## Contact
 
-📫 How to reach me: kebiri.isam.dine@gmail.com
+📫 How to reach me: issam.eddine.kebiri@gmail.com
 
 🌐 My Portfolio: <https://issam-kebiri.github.io/>
 
